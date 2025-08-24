@@ -1,2 +1,20 @@
-# Real-time-traffic-analytics
-A real-time traffic analytics project using Python, Azure Event Hubs, Stream Analytics, and Power BI to simulate traffic data, process it in real-time, and visualize insights.
+# Real-Time Traffic Analytics
+
+**Goal:** Simulate traffic events, ingest them into Azure Event Hubs, run real-time analytics, and visualize live dashboards & alerts.
+
+## Milestones
+1. Data simulation (Python) → Event Hubs ingestion  
+2. Stream processing (Azure Stream Analytics) → store insights  
+3. Dashboard & alerts (Power BI / Streamlit)
+
+## Tech
+Python · Azure Event Hubs · Azure Stream Analytics · Power BI/Streamlit · SQL/Data Lake
+
+## Team
+- Dana A. (PM) · Member A · Member B · Member C
+
+## Getting Started
+```bash
+python -m venv .venv
+# activate venv, then:
+pip install -r requirements.txt

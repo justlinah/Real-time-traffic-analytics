@@ -11,7 +11,7 @@
 Python · Azure Event Hubs · Azure Stream Analytics · Power BI/Streamlit · SQL/Data Lake
 
 ## Team
-- Dana A. (PM) · Member A · Member B · Member C
+- linah mohamed. (PM) · Member A · Member B · Member C
 
 ## Getting Started
 ```bash
